@@ -1,0 +1,7 @@
+# Placeholder — copy the actual requirements.txt from your application here.
+# Example (day9 backend used FastAPI + uvicorn):
+# fastapi
+# uvicorn[standard]
+#
+# Example (day8 assignment API used Flask):
+# flask
